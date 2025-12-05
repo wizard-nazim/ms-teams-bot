@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bot-wizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5ac4f74793af6e3c620c9924d0223fe309289ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cbb19ea5da5ebe9b876af1363bffca9f836fea9")]
 [assembly: System.Reflection.AssemblyProductAttribute("bot-wizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bot-wizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

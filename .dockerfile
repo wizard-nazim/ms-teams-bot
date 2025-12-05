@@ -17,5 +17,4 @@ COPY --from=build /app/out .
 
 EXPOSE ${PORT}
 
-# Replace 'YourBotProject.dll' with your actual DLL name from publish output
 ENTRYPOINT ["dotnet", "bot-wizard.dll"]
